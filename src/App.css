@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.location-container {
+  margin: 20px;
+}
+
+.air-quality-box {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: lightgray;
+  display: inline-block;
+  margin: 10px;
+}
+
+#map {
+  width: 80%;
+  height: 400px;
+  margin: auto;
+  border: 2px solid black;
+}
